@@ -1,6 +1,6 @@
 # Nuxt 3 Auth Tutorial with Nuxt Auth and Server Routes
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68bea67797ff8563f5d8c8dc/nuxt-4-auth-tutorial-with-nuxt-auth-and-server-routes).
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
